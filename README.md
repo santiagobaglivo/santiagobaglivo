@@ -7,6 +7,9 @@
 
 </span>
 
+Twenty three years old programmer in love with android development.
+
 ## Current projects
 * 👨🏻‍💼 CEO & Founder at **[SyroxTech](https://www.syroxtech.com)**;
 * 🩺 Project Manager at **[SEGIMED](https://www.segimed.com)**.
+* 📢 Co-Founder at **[Kroveh](https://www.kroveh.com)**.
