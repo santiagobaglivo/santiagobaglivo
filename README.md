@@ -7,7 +7,7 @@
 
 </span>
 
-Twenty three years old programmer in love with android development.
+Twenty one years old entrepeneur in love with founding startups.
 
 ## Current projects
 * 👨🏻‍💼 CEO & Founder at **[SyroxTech](https://www.syroxtech.com)**;
