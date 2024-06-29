@@ -6,3 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/santiagobaglivo)](https://github.com/santiagobaglivo)
 
 </span>
+
+## Current projects
+* 👨🏻‍💼 CEO & Founder at **[SyroxTech](https://www.syroxtech.com)**;
+* 🩺 Project Manager at **[SEGIMED](https://www.segimed.com)**.
