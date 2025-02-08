@@ -11,5 +11,4 @@ Twenty one years old entrepeneur in love with founding startups.
 
 ## Current projects
 * 👨🏻‍💼 CEO & Founder at **[SyroxTech](https://www.syroxtech.com)**;
-* 🩺 Project Manager at **[SEGIMED](https://www.segimed.com)**.
-* 📢 Co-Founder at **[Kroveh](https://www.kroveh.com)**.
+\* 📢 Co-Founder at **[Kroveh](https://www.kroveh.com)**.
